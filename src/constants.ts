@@ -40,7 +40,7 @@ export const POOLS = [
   // USDC:
   lp('EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'),
   // Wormhole:
-  lp('85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ'),
+  lp('9HijkHUHNjTG4nTuevJZDDXd29cKYr2smkD8YVWu7tRG'),
 ]
 
 // The default token to be selected
