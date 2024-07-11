@@ -53,8 +53,8 @@ export const DEFAULT_POOL = POOLS[0]
 export const TOKEN_METADATA: (Partial<TokenMeta> & {mint: PublicKey})[] = [
   {
     mint: FAKE_TOKEN_MINT,
-    name: 'Pixel',
-    symbol: 'PIXEL',
+    name: 'Pixel Boyz Club',
+    symbol: 'PBOYS',
     image: '/fakemoney.png',
     baseWager: 1e9,
     decimals: 9,
